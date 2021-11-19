@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1543056932 source:c:\users\tulio\documents\code blocks projects\cap12\1.c
+	<conio.h>
+
+1543058935 source:c:\users\tulio\documents\code blocks projects\cap12\2.c
+	<stdio.h>
+	<stdlib.h>
+
+1543062620 source:c:\users\tulio\documents\code blocks projects\cap12\3.c
+	<fcntl.h>
+	<io.h>
+	<stdio.h>
+	<stdlib.h>
+

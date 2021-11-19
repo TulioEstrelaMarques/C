@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="lista" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/lista" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/lista" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="ex12.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex13.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex15.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex21.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex26.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex29.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex30.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex33.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex34.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex37.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ex9.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

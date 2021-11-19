@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602961982 source:c:\users\tulio\documents\code blocks projects\bfs\main.cpp
+	<iostream>
+	<list>
+	<queue>
+

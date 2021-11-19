@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1569319606 source:c:\users\tulio\documents\code blocks projects\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1569319705 source:c:\users\tulio\documents\code blocks projects\lista\ex2.c
+	<stdio.h>
+

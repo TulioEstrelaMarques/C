@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1568809990 source:c:\users\tulio\documents\code blocks projects\potencia\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569331226 source:c:\users\tulio\documents\code blocks projects\fibonaccir\main.c
+	<stdio.h>
+	<stdlib.h>
+
