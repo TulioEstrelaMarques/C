@@ -18,12 +18,12 @@ void gravaDadosArq(FILE *fp, dados_alunos aluno){
     fflush(stdin);
     //scanf("%s",&aluno.nome);
     fgets(aluno.nome,8,stdin);
-    fwrite(&aluno,sizeof(dados_alunos),1,fp);
+    fwrite(&aluno,sizeof())
     fclose(fp);
 }
 
 dados_alunos leDadosArq(FILE *fp,dados_alunos aluno){
-    fp=fopen("testep99.txt","r");
+    fp=fopen("testep94.txt","r");
     testaArquivo(fp);
     fread(&aluno,sizeof(dados_alunos),1,fp);
     fclose(fp);
@@ -33,14 +33,13 @@ dados_alunos leDadosArq(FILE *fp,dados_alunos aluno){
 void imprimeDadosTela(dados_alunos aluno){
     printf("\n\nDados do arquivo:\n");
     printf("Nome...:%s\n",aluno.nome);
+    printf("Matricula...:%s\n\n",aluno.matricula);
 }
 
 main(){
     FILE *fp;
     dados_alunos aluno;
     gravaDadosArq(fp,aluno);
-    printf("Digite o nome do aluno: ");
-    scanf("%s",&aluno.nome);
     aluno = leDadosArq(fp,aluno);
     imprimeDadosTela(aluno);
     system("pause");

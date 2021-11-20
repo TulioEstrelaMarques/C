@@ -1,16 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
-int fat(int f);
-int main(){
 
-    printf("O fatorial eh: %d",fat(6));
-    return 0;
-}
-int fat(int f){
-    int r=1;
-    while(f>0){
-        r*=f--;
-        //f--;
+main(){
+    int n, f=1;
+    printf("Fatorial de que numero (nao vale negativo): ");
+    scanf("%d",&n);
+    for(int i=n; i >= 1; i--){
+        f*=i; /*f=f*i*/
+        //printf("%d!=")
     }
-    return r;
+
+    printf("O fatorial de %d eh: %d",n,f);
 }

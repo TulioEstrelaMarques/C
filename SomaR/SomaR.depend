@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536060329 source:c:\users\tulio\documents\code blocks projects\somar\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536062803 source:c:\users\tulio\documents\code blocks projects\somar\potencia.c
+	<stdio.h>
+

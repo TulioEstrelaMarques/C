@@ -1,5 +1,9 @@
 # depslib dependency file v1.0
-1542795978 source:c:\users\tulio\documents\code blocks projects\aquivo\p99.c
+1542792345 source:c:\users\tulio\documents\code blocks projects\aquivo\p92.c
+	<stdio.h>
+	<stdlib.h>
+
+1542794365 source:c:\users\tulio\documents\code blocks projects\aquivo\p94.c
 	<stdio.h>
 	<stdlib.h>
 

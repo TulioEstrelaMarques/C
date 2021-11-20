@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537273369 source:c:\users\tulio\documents\code blocks projects\provalab2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537276027 source:c:\users\tulio\documents\code blocks projects\provalab2\n2.c
+	<stdio.h>
+

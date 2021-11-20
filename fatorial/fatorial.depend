@@ -1,5 +1,8 @@
 # depslib dependency file v1.0
-1566998387 source:c:\users\tulio\documents\code blocks projects\fatorial\main.c
+1527077131 source:c:\users\tulio\documents\code blocks projects\fatorial\main.c
 	<stdio.h>
 	<stdlib.h>
+
+1527080408 source:c:\users\tulio\documents\code blocks projects\fatorial\calc.c
+	<stdio.h>
 

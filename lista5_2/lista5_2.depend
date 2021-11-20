@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1542459068 source:c:\users\tulio\documents\code blocks projects\lista5_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1542464935 source:c:\users\tulio\documents\code blocks projects\lista5_2\2.c
+	<stdio.h>
+
+1542565732 source:c:\users\tulio\documents\code blocks projects\lista5_2\3.c
+	<stdio.h>
+	<stdlib.h>
+
+1542639124 source:c:\users\tulio\documents\code blocks projects\lista5_2\5.c
+	<stdio.h>
+
+1542649233 source:c:\users\tulio\documents\code blocks projects\lista5_2\6.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542651496 source:c:\users\tulio\documents\code blocks projects\lista5_2\9.c
+	<stdio.h >
+	<ctype.h >
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1542651612 source:c:\users\tulio\documents\code blocks projects\lista5_2\10.c
+
+1542652082 source:c:\users\tulio\documents\code blocks projects\lista5_2\11.c
+
+1542660585 source:c:\users\tulio\documents\code blocks projects\lista5_2\13.c
+

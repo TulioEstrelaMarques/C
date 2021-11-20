@@ -1,15 +1,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void display4(char *s){
-    while(*s!='\0'){
-        printf("%c",*s++);
-    }
+void troca(int *x,int *y);
+int main(){
+    int i,j;
+    printf("Digite dois valores: ");
+    scanf("%d %d",&i,&j);
+    printf("Antes da troca: %d e %d\n\n",i,j);
+    troca(&i,&j);
+    printf("Depois da troca: %d e %d",i,j);
+    return 0;
 }
 
-int main(){
-    char s[10];
-    scanf("%s",s);
-    display4(s);
-    return 0;
+void troca(int *x, int *y){
+    int aux;
+    aux=*x;
+    *x=*y;
+    *y=aux;
 }

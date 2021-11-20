@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534942223 source:c:\users\tulio\documents\code blocks projects\funcaoponteiro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

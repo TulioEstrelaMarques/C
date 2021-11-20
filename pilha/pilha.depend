@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537967045 source:c:\users\tulio\documents\code blocks projects\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+
